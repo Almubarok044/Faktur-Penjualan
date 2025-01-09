@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440253389107",
+    "project_id": "plmobile",
+    "storage_bucket": "plmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440253389107:android:a25ec4e2b868de1fdec646",
+        "android_client_info": {
+          "package_name": "plmobile.plmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtAl5VluU4efcdIZag549p0-yOaTfni2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

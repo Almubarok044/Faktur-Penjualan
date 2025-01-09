@@ -1,0 +1,50 @@
+name: PT.RPG
+description: A Flutter PL project.
+publish_to: none
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.2 <4.0.0"
+
+dependencies:
+  cloud_firestore: ^4.9.2
+  cupertino_icons: ^1.0.6
+  date_format: ^2.0.7
+  firebase_auth: ^4.10.0
+  firebase_core: ^2.16.0
+  firebase_database: ^10.2.6
+  firebase_storage: ^11.2.7
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  fluttertoast: ^8.2.2
+  google_fonts: ^5.0.0
+  image: ^4.1.7
+  intl: ^0.18.1
+  location: ^5.0.3
+  open_document: ^1.0.7
+  open_file: ^3.3.2
+  pdf: ^3.10.4
+  qr_flutter: ^4.1.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.3
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: assets/icon/logo_pt_rpg.png
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon/iconpria.jpg
+    - assets/icon/logo_pt_rpg.png
+    - assets/background/tema1.jpg
+    - assets/flutter/icon_flutter/icon_flutter.png
+    - assets/flutter/lockup_flutter_vertical/lockup_flutter_vertical_wht.png
+    - assets/flutter/lockup_built-w-flutter/lockup_built-w-flutter.png
